@@ -51,6 +51,6 @@ sc delete WinDivert
 Достаточно следовать следующим инструкциям и всё внимательно читать:
 - [zapret/docs/quick_start.txt](https://github.com/bol-van/zapret/blob/master/docs/quick_start.txt)
 - [zapret/docs/readme.txt](https://github.com/bol-van/zapret/blob/master/docs/readme.txt)
-  * https://github.com/Flowseal/zapret-discord-youtube/issues/7
+
 > [!WARNING]
 > Если вы открываете Issue *(в этом репозитории)* с проблемой в использовании на **Linux**, то, как бы это не звучало, это ошибка. Все вопросы по работе на Linux нужно открывать в **[ОРИГИНАЛЬНОМ](https://github.com/bol-van/zapret/)** репозитории. Следовательно, задавайте вопросы [тут](https://github.com/bol-van/zapret/issues/).
