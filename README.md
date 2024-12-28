@@ -3,8 +3,6 @@
 > [!NOTE]  
 > Данный репозиторий - **некоммерческая** *User-Friendly* сборка [оригинального репозитория](https://github.com/bol-van/zapret). Здесь используются оригинальные бинарники, сравнить которые вы можете с помощью хэша.
 > Так как zapret open-source, вы всегда можете сами собрать эти бинарники и не бояться вирусов.
-> 
->**Будут рад [⭐ поставленной звезде](https://github.com/Flowseal/zapret-discord-youtube/stargazers) (в правом верхнем углу) у репозитория 🙂**
 
 ##
 
@@ -13,8 +11,6 @@
 
 ## Guides
 ### Windows
-> [!IMPORTANT]  
-> Если всё еще не скачан, то скачайте последний [релиз](https://github.com/Flowseal/zapret-discord-youtube/releases), разархивируйте в отдельную папку.
 
 Запустите **от имени администратора** то, что вам нужно:
 - **`discord.bat`** - запустить обход дискорда.
@@ -68,25 +64,3 @@ sc delete WinDivert
   * https://github.com/Flowseal/zapret-discord-youtube/issues/7
 > [!WARNING]
 > Если вы открываете Issue *(в этом репозитории)* с проблемой в использовании на **Linux**, то, как бы это не звучало, это ошибка. Все вопросы по работе на Linux нужно открывать в **[ОРИГИНАЛЬНОМ](https://github.com/bol-van/zapret/)** репозитории. Следовательно, задавайте вопросы [тут](https://github.com/bol-van/zapret/issues/).
-
-## Support
-
-Вы можете поддержать проект, поставив :star: (сверху справа репозитория)!  
-Также, вы можете поддержать разработчика [оригинального репозитория zapret](https://github.com/bol-van/zapret/issues/590) тут - https://github.com/bol-van/zapret/issues/590
-
-<a href="https://star-history.com/#Flowseal/zapret-discord-youtube&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Flowseal/zapret-discord-youtube&type=Date" />
- </picture>
-</a>
-
-## Credits & Contributors
-<p align="left">
-  <a href="https://github.com/Flowseal/zapret-discord-youtube/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube" />
-  </a>
-</p>
-
-* Many thanks to [bol-van](https://github.com/bol-van/), creator of original [zapret](https://github.com/bol-van/zapret/) repository.
